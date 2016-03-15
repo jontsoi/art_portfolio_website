@@ -22,7 +22,7 @@
     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/contact_css.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -50,37 +50,24 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+	
+	 <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="images/artist-silhouette.jpg" alt="Portrait" height="100%" width="100%">
+        </div>
+        <div class="col-md-8">
+          <h2>Who I Am</h2>
+          <p>Write details about yourself here. Who are you? What is your goal that can be said in one to two sentences? What are your skills and/or specialities? What projects have you worked on?</p>
+          <p><a class="btn btn-default" href="mailto:someone@yoursite.com" role="button">Send an email &raquo;</a></p>
+       </div>
+      </div>
+	  
+	 </div> <!-- /container -->
+	  
+	 <hr>
 
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
-      <div class="container">
-        <h1>Welcome to the digital art portfolio of [INSERT ARTIST NAME]</h1>
-        <p>Here you can find both <strong>completed</strong> artworks and <strong>rough</strong> sketches that I have made. My specialty is drawing [INSERT SPECIALTY], but my art style is only just beginning to be realized. If I have a quote or a certain message to say, I would put it here.</p>
-      </div>
-    </div>
-	
-	<div class="container">
-	
-	  <div class="grid">
-	    <div class="grid-sizer"></div>
-		
-        <div class="grid-item"> <img src="images/dunxo9ubzkpwgvcgnmax.jpg"> </div>
-        <div class="grid-item"> <img src="images/zfrnec15efypkr2nfsxd.jpg"> </div>
-        <div class="grid-item"> <img src="images/uqzv0sz9ni9x676yc8qb.jpg"> </div>
-		<div class="grid-item"> <img src="images/otvkkqkktdtcbjvyqegv.jpg"> </div>
-		<div class="grid-item"> <img src="images/fnxkjvtejshznnksvpkf.jpg"> </div>
-		<div class="grid-item"> <img src="images/xshcdnwvjdvraelvwgwu.jpg"> </div>
-		<div class="grid-item"> <img src="images/gits_background.jpg"> </div>
-		<div class="grid-item"> <img src="images/p4myaxoeubr3pwh8r4hm.jpg"> </div>
-		<div class="grid-item"> <img src="images/rhexwjqtutiljidi0ngx.jpg"> </div>
-		<div class="grid-item"> <img src="images/yfo1nzesrvhlpd9rmnuv.jpg"> </div>
-      </div>
-	
-    </div> <!-- /container -->
-	
-	<hr>
-	
-	 <div class="container contact-details">
+	<div class="container contact-details">
       <footer>
         <p>&copy; 2015 Company, Inc.</p>
 		<p>Home: [CITY NAME], [COUNTRY]</p>
@@ -88,26 +75,7 @@
 		<p>Phone: [PHONE NUMBER]</p>
       </footer>
     </div> <!-- /container -->
-	
-	<!-- Possible different code to use with Bootstrap + Masonry plugin -->
-	<!--
-	<div class="container-fluid">
-  <!-- add extra container element for Masonry - ->
-  <div class="grid">
-    <!-- add sizing element for columnWidth - ->
-    <div class="grid-sizer col-xs-4"></div>
-    <!-- items use Bootstrap .col- classes - ->
-    <div class="grid-item col-xs-8">
-      <!-- wrap item content in its own element - ->
-      <div class="grid-item-content">...</div>
-    </div>
-    <div class="grid-item col-xs-4">
-      <div class="grid-item-content">...</div>
-    </div>
-    ...
-  </div>
-</div>
--->
+
 
 
     <!-- Bootstrap core JavaScript
@@ -115,19 +83,6 @@
     <!-- Placed at the end of the document so the pages load faster -->
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
-	<script src="http://imagesloaded.desandro.com/imagesloaded.pkgd.js"></script>
-	
-<script>
-var $grid = $('.grid').imagesLoaded( function() {
-  $grid.masonry({
-    itemSelector: '.grid-item',
-    percentPosition: true,
-    columnWidth: '.grid-sizer'
-  }); 
-});
-</script>
-
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="../../dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->

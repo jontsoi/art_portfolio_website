@@ -8,12 +8,12 @@ body {
   background-attachment: fixed;
 }
 
-ul.nav, .jumbotron h1, a.navbar-brand, a.btn-lg {
+ul.nav, .jumbotron h1, a.navbar-brand, a.btn-lg, footer {
 	font-family: 'Arvo', courier, serif;
 }
 
 ul.nav {
-	font-size: 13px
+	font-size: 13px;
 }
 
 .jumbotron {
@@ -37,7 +37,12 @@ ul.nav {
 }
 
 .container {
-	color: black;
+	color: lightgray;
+}
+
+.contact-details {
+  text-align: center;
+  color:white;
 }
 
 /* clear fix */

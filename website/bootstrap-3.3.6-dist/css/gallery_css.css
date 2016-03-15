@@ -1,0 +1,18 @@
+body {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  background-size: cover;
+  background-image: url('../images/gits_background_gray.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+ul.nav, a.navbar-brand, p, h2 {
+  font-family: 'Arvo', courier, serif;
+}
+
+.contact-details {
+  text-align: center;
+  color:white;
+}

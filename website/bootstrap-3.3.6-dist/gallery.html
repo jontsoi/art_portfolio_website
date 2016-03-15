@@ -51,11 +51,23 @@
       </div>
     </nav>
 	
-	 <div class="container">
-       <p style="text-align:center;">I'd like to experiment with image gallery plugins, and they would ideally go here. The first one that's grabbed my attention is Juicebox, simply because it was the first one to show up in Google searches. I should still keep looking at others, but I'll test out Juicebox for now.</p>
-	 </div> <!-- /container -->
-	  
-	 <hr>
+    <div class="container">	 
+        <!--START JUICEBOX EMBED-->
+        <script src="jbcore/juicebox.js"></script>
+        <script>
+        new juicebox({
+        containerId: "juicebox-container",
+        galleryWidth: "100%",
+        galleryHeight: "1400px",
+        backgroundColor: "rgba(0,0,0,0.5)"
+        });
+        </script>
+		
+        <div id="juicebox-container"></div>
+    <!--END JUICEBOX EMBED-->
+    </div>	  
+	
+	<hr>
 
 	<div class="container contact-details">
       <footer>

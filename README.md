@@ -24,3 +24,7 @@ Importing current website,
 2016-03-14/8:20PM,
 Minor cosmetic changes,
 "Bootstrap: CSS", http://getbootstrap.com/css/
+
+2016-03-15/1:30PM,
+Added Juicebox plugin,
+"Juicebox: Embedding in a HTML page", https://www.juicebox.net/support/embedding/

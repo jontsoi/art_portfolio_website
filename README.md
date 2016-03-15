@@ -13,7 +13,14 @@ name will be put down instead of a direct link.
 The artwork comes from an artist named Lee Woo-chul, a South Korean artist who was featured in Kotaku's Fine Art articles. 
 I like them, so I decided to use them as a placeholder for this portfolio.
 
-Commit Date/Time - Short description - Tutorial
+Commit Date/Time,
+Short description,
+Source
 
-2016-03-14/12:40AM - Importing current website - "Build Your First Website in 1 Week with HTML5 and CSS3", Lectures 1 - 19, Ryan Bonhardt
-2016-03-14/8:20PM - Minor cosmetic changes - "Bootstrap: CSS", http://getbootstrap.com/css/
+2016-03-14/12:40AM,
+Importing current website,
+"Build Your First Website in 1 Week with HTML5 and CSS3" Lectures 1 - 19, Ryan Bonhardt
+
+2016-03-14/8:20PM,
+Minor cosmetic changes,
+"Bootstrap: CSS", http://getbootstrap.com/css/

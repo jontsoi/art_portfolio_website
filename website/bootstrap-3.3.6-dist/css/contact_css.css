@@ -1,3 +1,7 @@
+html {
+  overflow-y: scroll;
+}
+
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 100px;
@@ -9,15 +13,32 @@ body {
   color: white;
 }
 
+form textarea {
+  width: 100%;
+  color: black;
+}
+
+form input {
+  color: black;
+}
+
 ul.nav, a.navbar-brand, p, h2 {
   font-family: 'Arvo', courier, serif;
 }
 
 ul.nav {
-  font-size: 13px;
+	font-size: 13px;
 }
 
-.contact-details {
+#social-icons {
   text-align: center;
-  color:white;
+}
+
+#social-icons img {
+  height:60px;
+  width:60px;
+}
+
+#social-info {
+  text-align: center;
 }

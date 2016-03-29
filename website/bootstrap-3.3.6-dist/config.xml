@@ -3,100 +3,102 @@
 <juiceboxgallery 
 
 	resizeOnImport="false"
-	maxImageWidth="1000"
-	maxImageHeight="1300"
+	maxImageWidth="800"
+	maxImageHeight="1067"
 	showOpenButton="true"
 	useThumbDots="false"
 	showThumbsButton="true"
-	galleryTitle=""
+	thumbFrameColor="rgba(255,255,255,.3)"
+	useFullscreenExpand="false"
+	indexPageName="juicebox_index.html"
 
 >
   <image imageURL="images/dunxo9ubzkpwgvcgnmax.jpg"
 	thumbURL="thumbs/dunxo9ubzkpwgvcgnmax.jpg"
 	linkURL="images/dunxo9ubzkpwgvcgnmax.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\dunxo9ubzkpwgvcgnmax.jpg">
-    <title><![CDATA[dunxo9ubzkpwgvcgnmax]]></title>
-    <caption><![CDATA[]]></caption>
+    <title><![CDATA[Legend of the Cryptids 1]]></title>
+    <caption><![CDATA[Alladdin and the Genie]]></caption>
   </image>
   <image imageURL="images/fnxkjvtejshznnksvpkf.jpg"
 	thumbURL="thumbs/fnxkjvtejshznnksvpkf.jpg"
 	linkURL="images/fnxkjvtejshznnksvpkf.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\fnxkjvtejshznnksvpkf.jpg">
-    <title><![CDATA[fnxkjvtejshznnksvpkf]]></title>
-    <caption><![CDATA[]]></caption>
+    <title><![CDATA[Legend of the Cryptids 2]]></title>
+    <caption><![CDATA[The Three Musketeers]]></caption>
   </image>
   <image imageURL="images/gits_background.jpg"
 	thumbURL="thumbs/gits_background.jpg"
 	linkURL="images/gits_background.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\gits_background.jpg">
-    <title><![CDATA[gits_background]]></title>
-    <caption><![CDATA[]]></caption>
+    <title><![CDATA[Ghost in a Shell]]></title>
+    <caption><![CDATA[Still frame background]]></caption>
   </image>
   <image imageURL="images/otvkkqkktdtcbjvyqegv.jpg"
 	thumbURL="thumbs/otvkkqkktdtcbjvyqegv.jpg"
 	linkURL="images/otvkkqkktdtcbjvyqegv.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\otvkkqkktdtcbjvyqegv.jpg">
-    <title><![CDATA[otvkkqkktdtcbjvyqegv]]></title>
+    <title><![CDATA[Chaos Drive]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/p4myaxoeubr3pwh8r4hm.jpg"
 	thumbURL="thumbs/p4myaxoeubr3pwh8r4hm.jpg"
 	linkURL="images/p4myaxoeubr3pwh8r4hm.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\p4myaxoeubr3pwh8r4hm.jpg">
-    <title><![CDATA[p4myaxoeubr3pwh8r4hm]]></title>
+    <title><![CDATA[One Punch Man vs Marvel vs DC]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/rhexwjqtutiljidi0ngx.jpg"
 	thumbURL="thumbs/rhexwjqtutiljidi0ngx.jpg"
 	linkURL="images/rhexwjqtutiljidi0ngx.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\rhexwjqtutiljidi0ngx.jpg">
-    <title><![CDATA[rhexwjqtutiljidi0ngx]]></title>
+    <title><![CDATA[The Totally Awesome Hulk]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/u3okpnsktuqoaajkmiwi.jpg"
 	thumbURL="thumbs/u3okpnsktuqoaajkmiwi.jpg"
 	linkURL="images/u3okpnsktuqoaajkmiwi.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\u3okpnsktuqoaajkmiwi.jpg">
-    <title><![CDATA[u3okpnsktuqoaajkmiwi]]></title>
-    <caption><![CDATA[]]></caption>
+    <title><![CDATA[Legend of the Cryptids 3]]></title>
+    <caption><![CDATA[Peter Pan and Wendy]]></caption>
   </image>
   <image imageURL="images/uqzv0sz9ni9x676yc8qb.jpg"
 	thumbURL="thumbs/uqzv0sz9ni9x676yc8qb.jpg"
 	linkURL="images/uqzv0sz9ni9x676yc8qb.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\uqzv0sz9ni9x676yc8qb.jpg">
-    <title><![CDATA[uqzv0sz9ni9x676yc8qb]]></title>
+    <title><![CDATA[Chaos Drive 1]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/xshcdnwvjdvraelvwgwu.jpg"
 	thumbURL="thumbs/xshcdnwvjdvraelvwgwu.jpg"
 	linkURL="images/xshcdnwvjdvraelvwgwu.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\xshcdnwvjdvraelvwgwu.jpg">
-    <title><![CDATA[xshcdnwvjdvraelvwgwu]]></title>
+    <title><![CDATA[The Joker]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/yfo1nzesrvhlpd9rmnuv.jpg"
 	thumbURL="thumbs/yfo1nzesrvhlpd9rmnuv.jpg"
 	linkURL="images/yfo1nzesrvhlpd9rmnuv.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\yfo1nzesrvhlpd9rmnuv.jpg">
-    <title><![CDATA[yfo1nzesrvhlpd9rmnuv]]></title>
+    <title><![CDATA[Legend of the Cryptids 4]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/zfrnec15efypkr2nfsxd.jpg"
 	thumbURL="thumbs/zfrnec15efypkr2nfsxd.jpg"
 	linkURL="images/zfrnec15efypkr2nfsxd.jpg"
-	linkTarget="_blank"
+	linkTarget="_self"
 	sourcePath="C:\Users\Jonathan\Dropbox\jet781\Academic\Self-teaching HTML\Udemy\website\bootstrap-3.3.6-dist\images\zfrnec15efypkr2nfsxd.jpg">
-    <title><![CDATA[zfrnec15efypkr2nfsxd]]></title>
-    <caption><![CDATA[]]></caption>
+    <title><![CDATA[Goblin]]></title>
+    <caption><![CDATA[Concept art background]]></caption>
   </image>
 </juiceboxgallery>

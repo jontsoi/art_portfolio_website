@@ -56,6 +56,9 @@
       <div class="container">
         <h1>Welcome to the digital art portfolio of [INSERT ARTIST NAME]</h1>
         <p>Here you can find both <strong>completed</strong> artworks and <strong>rough</strong> sketches that I have made. My specialty is drawing [INSERT SPECIALTY], but my art style is only just beginning to be realized. If I have a quote or a certain message to say, I would put it here.</p>
+		
+		<a href="gallery.html" class="btn btn-danger btn-lg active" role="button">View my latest works</a>
+		
       </div>
     </div>
 	
@@ -65,15 +68,9 @@
 	    <div class="grid-sizer"></div>
 		
         <div class="grid-item"> <img src="images/dunxo9ubzkpwgvcgnmax.jpg"> </div>
-        <div class="grid-item"> <img src="images/zfrnec15efypkr2nfsxd.jpg"> </div>
-        <div class="grid-item"> <img src="images/uqzv0sz9ni9x676yc8qb.jpg"> </div>
-		<div class="grid-item"> <img src="images/otvkkqkktdtcbjvyqegv.jpg"> </div>
-		<div class="grid-item"> <img src="images/fnxkjvtejshznnksvpkf.jpg"> </div>
-		<div class="grid-item"> <img src="images/xshcdnwvjdvraelvwgwu.jpg"> </div>
-		<div class="grid-item"> <img src="images/gits_background.jpg"> </div>
 		<div class="grid-item"> <img src="images/p4myaxoeubr3pwh8r4hm.jpg"> </div>
-		<div class="grid-item"> <img src="images/rhexwjqtutiljidi0ngx.jpg"> </div>
-		<div class="grid-item"> <img src="images/yfo1nzesrvhlpd9rmnuv.jpg"> </div>
+        <div class="grid-item"> <img src="images/uqzv0sz9ni9x676yc8qb.jpg"> </div>
+		
       </div>
 	
     </div> <!-- /container -->
@@ -118,15 +115,15 @@
 	<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
 	<script src="http://imagesloaded.desandro.com/imagesloaded.pkgd.js"></script>
 	
-<script>
-var $grid = $('.grid').imagesLoaded( function() {
-  $grid.masonry({
-    itemSelector: '.grid-item',
-    percentPosition: true,
-    columnWidth: '.grid-sizer'
-  }); 
-});
-</script>
+	<script>
+	var $grid = $('.grid').imagesLoaded( function() {
+	$grid.masonry({
+		itemSelector: '.grid-item',
+		percentPosition: true,
+		columnWidth: '.grid-sizer'
+		}); 
+	});
+	</script>
 
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="../../dist/js/bootstrap.min.js"></script>

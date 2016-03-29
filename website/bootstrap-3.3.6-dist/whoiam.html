@@ -59,7 +59,19 @@
         <div class="col-md-8">
           <h2>Who I Am</h2>
           <p>Write details about yourself here. Who are you? What is your goal that can be said in one to two sentences? What are your skills and/or specialities? What projects have you worked on?</p>
-          <p><a class="btn btn-default" href="mailto:someone@yoursite.com" role="button">Send an email &raquo;</a></p>
+		  
+		  <form method = "post" action = "http://www.google.com">
+		    Name: <br>  
+			<input type="text" name="name" required placeholder="Enter your name"/> <br>
+			E-mail: <br>  
+			<input type="email" name="email" required placeholder="Enter your email address"> <br>			
+			Message: <br>
+			<textarea cols="40" rows="5" name="myname" onfocus="this.select()"  placeholder="What do you want to say?"></textarea> <br>
+			<input type = "submit" value = "Submit"> <br>
+		  </form>
+		  
+		  <br>
+          <p><a class="btn btn-default" href="mailto:someone@yoursite.com" role="button">Send an email instead &raquo;</a></p>
        </div>
       </div>
 	  
@@ -69,10 +81,20 @@
 
 	<div class="container contact-details">
       <footer>
-        <p>&copy; 2015 Company, Inc.</p>
-		<p>Home: [CITY NAME], [COUNTRY]</p>
-		<p>E-mail: [EMAIL]</p>
-		<p>Phone: [PHONE NUMBER]</p>
+	    <div class="row">
+		  <div id="social-icons" class="col-md-6">
+		    <img src="images/social_circle_color/Twitter.png" alt="Facebook">
+			<img src="images/social_circle_color/Facebook.png" alt="Facebook">
+			<img src="images/social_circle_color/Google+.png" alt="Facebook">
+			<img src="images/social_circle_color/Instagram.png" alt="Facebook">
+		  </div>
+		  <div id="social-info" class="col-md-6">
+		    <p>&copy; 2015 Company, Inc.</p>
+            <p>Home: [CITY NAME], [COUNTRY]</p>
+            <p>E-mail: [EMAIL]</p>
+            <p>Phone: [PHONE NUMBER]</p>
+		  </div>
+		</div>
       </footer>
     </div> <!-- /container -->
 

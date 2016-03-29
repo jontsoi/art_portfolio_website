@@ -1,3 +1,8 @@
+html {
+  overflow-y: scroll;
+}
+
+/* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 100px;
   padding-bottom: 20px;
@@ -10,6 +15,10 @@ body {
 
 ul.nav, a.navbar-brand, p, h2 {
   font-family: 'Arvo', courier, serif;
+}
+
+ul.nav {
+	font-size: 13px;
 }
 
 .contact-details {

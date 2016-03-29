@@ -28,3 +28,10 @@ Minor cosmetic changes,
 2016-03-15/1:30PM,
 Added Juicebox plugin,
 "Juicebox: Embedding in a HTML page", https://www.juicebox.net/support/embedding/
+
+2016-03-28/10:30PM,
+Added social icon pictures and text form,
+http://www.vecteezy.com/vector-icons/53242-flat-vector-social-icons-eps
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML
+http://stackoverflow.com/questions/20186698/html-auto-resize-text-box-using-css-while-the-form-details-stays-center-aligne
+http://www.javascript-coder.com/html-form/html-form-tutorial-p2.phtml

@@ -12,12 +12,12 @@ body {
   background-attachment: fixed;
 }
 
-ul.nav, .jumbotron h1, a.navbar-brand, a.btn-lg, footer {
+ul.nav, .jumbotron h1, a.navbar-brand, a.btn-lg, footer, p{
 	font-family: 'Arvo', courier, serif;
 }
 
-ul.nav {
-	font-size: 13px;
+ul.nav, a.navbar-brand {
+	font-size: 20px;
 }
 
 .jumbotron {
@@ -47,6 +47,19 @@ ul.nav {
 .contact-details {
   text-align: center;
   color:white;
+}
+
+#social-icons {
+  text-align: center;
+}
+
+#social-icons img {
+  height:60px;
+  width:60px;
+}
+
+#social-info {
+  text-align: center;
 }
 
 /* clear fix */

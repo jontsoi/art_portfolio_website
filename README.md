@@ -35,3 +35,8 @@ http://www.vecteezy.com/vector-icons/53242-flat-vector-social-icons-eps
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML
 http://stackoverflow.com/questions/20186698/html-auto-resize-text-box-using-css-while-the-form-details-stays-center-aligne
 http://www.javascript-coder.com/html-form/html-form-tutorial-p2.phtml
+
+2016-05-15/7:30PM,
+Started learning PHP from a friend, and converted HTML files into a PHP template
+Emmanuel Quagraine, GasBuddy employee
+http://teacherjohn.com/tutorials/phptemplate.php

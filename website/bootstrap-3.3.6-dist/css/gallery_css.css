@@ -18,10 +18,23 @@ ul.nav, a.navbar-brand, p, h2 {
 }
 
 ul.nav {
-	font-size: 13px;
+	font-size: 20px;
 }
 
 .contact-details {
   text-align: center;
   color:white;
+}
+
+#social-icons {
+  text-align: center;
+}
+
+#social-icons img {
+  height:60px;
+  width:60px;
+}
+
+#social-info {
+  text-align: center;
 }

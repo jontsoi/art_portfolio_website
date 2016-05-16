@@ -26,8 +26,8 @@ ul.nav, a.navbar-brand, p, h2 {
   font-family: 'Arvo', courier, serif;
 }
 
-ul.nav {
-	font-size: 13px;
+ul.nav, a.navbar-brand {
+	font-size: 20px;
 }
 
 #social-icons {

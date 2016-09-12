@@ -22,7 +22,7 @@
 			================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+		<script src="https://unpkg.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
 		<script src="http://imagesloaded.desandro.com/imagesloaded.pkgd.js"></script>
 		<script>
 			var $grid = $('.grid').imagesLoaded( function() {
